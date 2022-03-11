@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/apple.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/author.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/bark.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/bigEarBack.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/bigEarOpen.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/bigEarSpriteSheet.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/blurredFrame.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/boulder.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/bush.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/crunch.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/deer.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/deerRunAway.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/jump.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/MainMenuFont.spritefont</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/mark.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/monster.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/monsterEat.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/puddle.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/rustle.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/shot.mp3</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/soldier.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/soldierDie.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/splash.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/step.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/stepSound.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/stomack.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/tree.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/wheeze.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/whine.wav</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/whitePixel.png</File>
+    <File>C:/Users/VLAD/Desktop/projects/курсач/ready/Game1/Game1/Content/wolf.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
