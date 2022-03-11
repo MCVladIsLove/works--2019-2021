@@ -1,0 +1,5 @@
+Game made in c# in the end of 2021 and called Ear Whisper.
+You play for a monster who can only hear and use his voice
+to make sound waves that show entites around.
+To play you should have a microphone because game records your mic volume
+to cast sound waves.
