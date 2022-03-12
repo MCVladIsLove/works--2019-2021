@@ -1,0 +1,3 @@
+Parser in Python3. Looking for Notebooks on DNS market and gathering in excel.
+It doesn't use proxies so run if not afraid to get spam blocked.
+Made in 2020.

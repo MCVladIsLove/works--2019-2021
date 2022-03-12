@@ -1,0 +1,3 @@
+My first relatively big project made in C. The code is bad.
+May be problems with russian language in console.
+Made in Autumn of 2020.
